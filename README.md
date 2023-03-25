@@ -9,6 +9,7 @@ A list of of AI coding topics.
 [Open a pull request](https://github.com/wsxiaoys/awesome-ai-codings/pulls) to add or edit this list. 
 
 ## Projects
+
 - [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
@@ -31,6 +32,7 @@ A list of of AI coding topics.
 
 
 ## Papers & Blogs
+
 - [Competition-level code generation with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 - [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)
   * Combined LLM completion and CodeSearch
@@ -46,6 +48,7 @@ A list of of AI coding topics.
   * Chat UX.
 
 ## Products & Startups
+
 - [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 - [Codeium](https://www.codeium.com/)
 - [CodeComplete.AI](https://codecomplete.ai/)
