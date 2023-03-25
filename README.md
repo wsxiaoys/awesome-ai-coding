@@ -12,6 +12,7 @@ A list of of AI coding topics.
 - [TransCoder](https://github.com/facebookresearch/CodeGen)
 - [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX)
 - [SantaCoder 1.1B](https://huggingface.co/bigcode/santacoder)
+- [InCoder 1B/6B](https://github.com/dpfried/incoder)
 
 ## Datasets
 - [The Pile](https://huggingface.co/datasets/the_pile)
