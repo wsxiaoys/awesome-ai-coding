@@ -8,6 +8,12 @@ A list of of AI coding topics.
 
 [Open a pull request](https://github.com/wsxiaoys/awesome-ai-codings/pulls) to add or edit this list. 
 
+## Projects
+- [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
+- [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
+- [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
+- [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
+
 ## LLM Models
 
 - [PolyCoder 160M/400M/2.7B](https://github.com/VHellendoorn/Code-LMs)
@@ -22,12 +28,6 @@ A list of of AI coding topics.
 - [The Pile](https://huggingface.co/datasets/the_pile)
 - [The Stack](https://huggingface.co/datasets/bigcode/the-stack)
 - [CodeContests](https://github.com/deepmind/code_contests)
-
-## Projects
-- [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
-- [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
-- [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
-- [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 
 
 ## Papers & Blogs
