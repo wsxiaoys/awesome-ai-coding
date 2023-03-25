@@ -6,6 +6,8 @@
 
 A list of of AI coding topics.
 
+[Open a pull request](https://github.com/wsxiaoys/awesome-ai-codings/pulls) to add or edit this list. 
+
 ## LLM Models
 
 - [PolyCoder 160M/400M/2.7B](https://github.com/VHellendoorn/Code-LMs)
