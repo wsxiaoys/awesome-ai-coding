@@ -20,7 +20,10 @@ A list of of AI coding topics.
 - [The Pile](https://huggingface.co/datasets/the_pile)
 - [The Stack](https://huggingface.co/datasets/bigcode/the-stack)
 - [CodeContests](https://github.com/deepmind/code_contests)
-  * Used in *AlphaCode*
+
+## Projects
+- [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
+- [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 
 ## Papers
 - [Competition-level code generation with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
