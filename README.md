@@ -56,3 +56,7 @@ A list of of AI coding topics.
 - [Tabnine](https://www.tabnine.com/)
 - [AiXCoder](https://www.aixcoder.com/en/)
 - [Turin Tech](https://www.turintech.ai/)
+- [Cursor](https://www.cursor.so/)
+- [Buildt](https://www.buildt.ai/)
+- [Safurai](https://www.safurai.com/)
+- [phind](https://www.phind.com/)
