@@ -24,6 +24,8 @@ A list of of AI coding topics.
 ## Projects
 - [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
+- [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
+- [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 
 ## Papers & Blogs
 - [Competition-level code generation with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
