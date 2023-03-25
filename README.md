@@ -29,6 +29,7 @@ A list of of AI coding topics.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 
+
 ## Papers & Blogs
 - [Competition-level code generation with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 - [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)
@@ -43,3 +44,15 @@ A list of of AI coding topics.
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
   * Chapter 3 on coding scenario.
   * Chat UX.
+
+## Products / Startups
+- [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
+- [Codeium](https://www.codeium.com/)
+- [CodeComplete.AI](https://codecomplete.ai/)
+- [Codify](https://codify.smallcloud.ai/)
+- [Cody](https://docs.sourcegraph.com/cody)
+- [Amazon Codewhisperer](https://aws.amazon.com/cn/codewhisperer/)
+- [Replit Ghostwrite](https://replit.com/site/ghostwriter)
+- [Tabnine](https://www.tabnine.com/)
+- [AiXCoder](https://www.aixcoder.com/en/)
+- [Turin Tech](https://www.turintech.ai/)
