@@ -29,6 +29,7 @@ A list of of AI coding topics.
 - [The Pile](https://huggingface.co/datasets/the_pile)
 - [The Stack](https://huggingface.co/datasets/bigcode/the-stack)
 - [CodeContests](https://github.com/deepmind/code_contests)
+- [CodeSearchNet](https://github.com/github/CodeSearchNet)
 
 
 ## Papers & Blogs
