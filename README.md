@@ -6,7 +6,7 @@
 
 A list of of AI coding topics.
 
-[Open a pull request](https://github.com/wsxiaoys/awesome-ai-codings/pulls) to add or edit this list. 
+[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) to add or edit this list. 
 
 ## Projects
 
