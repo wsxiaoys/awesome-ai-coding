@@ -10,7 +10,7 @@ A list of of AI coding topics.
 
 ## Projects
 
-- [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
+- [BigCode](https://github.com/bigcode-project): open scientific collaboration run by Hugging Face.
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
