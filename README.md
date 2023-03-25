@@ -49,6 +49,8 @@ A list of of AI coding topics.
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
   * Chapter 3 on coding scenario.
   * Chat UX.
+- [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
+  * Train decoder-only model with special <FIM> token with suffix context.
 
 ## Products & Startups
 
