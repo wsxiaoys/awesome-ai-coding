@@ -25,7 +25,7 @@ A list of of AI coding topics.
 - [BigCode Dataset](https://github.com/bigcode-project/bigcode-dataset): Data preprocessing to filter *The Stack*, used to created *SantaCoder*
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 
-## Papers
+## Papers & Blogs
 - [Competition-level code generation with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 - [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)
   * Combined LLM completion and CodeSearch
@@ -33,3 +33,6 @@ A list of of AI coding topics.
 - [Repository-Level Prompt Generation for Large Language Models of Code](https://arxiv.org/abs/2206.12839)
   * Generate proposals candidates based with prios, e.g imports, files from same dirs.
   * Use a proposal candidate classifier to select based proposals for LLM.
+- [ML-Enhanced Code Completion Improves Developer Productivity](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
+  * 500M Encoder-Decoder based model, fine tuned on Google's monorepo.
+  * 34% acceptance rate for multi-line code completion suggestions.
