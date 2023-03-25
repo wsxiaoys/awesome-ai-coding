@@ -14,6 +14,7 @@ A list of of AI coding topics.
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
+- [Code Alpaca](https://github.com/sahil280114/codealpaca): LLaMA trained on code instruction following.
 
 ## Datasets
 
