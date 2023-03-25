@@ -68,3 +68,4 @@ A list of of AI coding topics.
 - [Buildt](https://www.buildt.ai/)
 - [Safurai](https://www.safurai.com/)
 - [phind](https://www.phind.com/)
+- [AskCodi](https://www.askcodi.com/)
