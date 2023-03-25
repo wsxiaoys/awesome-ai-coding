@@ -36,3 +36,6 @@ A list of of AI coding topics.
 - [ML-Enhanced Code Completion Improves Developer Productivity](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
   * 500M Encoder-Decoder based model, fine tuned on Google's monorepo.
   * 34% acceptance rate for multi-line code completion suggestions.
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+  * Chapter 3 on coding scenario.
+  * Chat UX.
