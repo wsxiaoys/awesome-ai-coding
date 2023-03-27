@@ -70,3 +70,7 @@ A list of of AI coding topics.
 - [Safurai](https://www.safurai.com/)
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wsxiaoys/awesome-ai-coding&type=Date)](https://star-history.com/#wsxiaoys/awesome-ai-coding&Date)
