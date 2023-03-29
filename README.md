@@ -58,7 +58,7 @@ A list of of AI coding topics.
 - [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 - [Codeium](https://www.codeium.com/)
 - [CodeComplete.AI](https://codecomplete.ai/)
-- [Codify](https://codify.smallcloud.ai/)
+- <s>[Codify](https://codify.smallcloud.ai/)</s> [refact.ai](https://refact.ai/)
 - [Cody](https://docs.sourcegraph.com/cody)
 - [Amazon Codewhisperer](https://aws.amazon.com/cn/codewhisperer/)
 - [Replit Ghostwrite](https://replit.com/site/ghostwriter)
