@@ -20,6 +20,7 @@ A list of of AI coding topics.
 - [e2b](https://github.com/e2b-dev/e2b): Opensource IDE powered by AI agents.
 - [promptr](https://github.com/ferrislucas/promptr): CLI tool to operating on your codebase using GPT.
 - [ChatIDE](https://github.com/yagil/ChatIDE): Extension let you talk to ChatGPT inside VSCode.
+- [PromptMate](https://github.com/MateusZitelli/PromptMate): VSCode extension embed ChatGPT.
 
 ## Datasets
 
