@@ -16,7 +16,9 @@ A list of of AI coding topics.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 - [Autodoc](https://github.com/context-labs/autodoc): Generate codebase documentation use LLM (OpenAI / Alpaca)
 - [CodeAlpaca](https://github.com/sahil280114/codealpaca): LLaMA trained on code instruction following.
-- [Tabby](https://github.com/TabbyML/tabby): An opensource / on-prem alternative to GitHub Copilot. 
+- [🐾 Tabby](https://github.com/TabbyML/tabby): An opensource / on-prem alternative to GitHub Copilot. 
+- [e2b](https://github.com/e2b-dev/e2b): Opensource IDE powered by AI agents.
+- [promptr](https://github.com/ferrislucas/promptr): CLI tool to operating on your codebase using GPT.
 
 ## Datasets
 
@@ -70,7 +72,7 @@ A list of of AI coding topics.
 - [Safurai](https://www.safurai.com/)
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
-- [e2b](https://github.com/e2b-dev/e2b): Opensource IDE powered by AI agents.
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wsxiaoys/awesome-ai-coding&type=Date)](https://star-history.com/#wsxiaoys/awesome-ai-coding&Date)
