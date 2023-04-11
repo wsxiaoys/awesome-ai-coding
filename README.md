@@ -21,6 +21,7 @@ A list of of AI coding topics.
 - [promptr](https://github.com/ferrislucas/promptr): CLI tool to operating on your codebase using GPT.
 - [ChatIDE](https://github.com/yagil/ChatIDE): Extension let you talk to ChatGPT inside VSCode.
 - [PromptMate](https://github.com/MateusZitelli/PromptMate): VSCode extension embed ChatGPT.
+- [TurboPilot](https://github.com/ravenscroftj/turbopilot): CPU based copilot clone
 
 ## Datasets
 
