@@ -60,8 +60,12 @@ A list of of AI coding topics.
 
 ## Products & Startups
 
-- [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
+### Test Case Generation
 - [Codeium](https://www.codeium.com/)
+- [Machinet](https://machinet.net/) 
+ 
+### General Purpose
+- [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 - [CodeComplete.AI](https://codecomplete.ai/)
 - <s>[Codify](https://codify.smallcloud.ai/)</s> [refact.ai](https://refact.ai/)
 - [Cody](https://docs.sourcegraph.com/cody)
@@ -75,6 +79,8 @@ A list of of AI coding topics.
 - [Safurai](https://www.safurai.com/)
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
+- [MutableAI](https://mutable.ai/)
+- [Refact](https://refact.ai/)
 
 ## Star History
 
