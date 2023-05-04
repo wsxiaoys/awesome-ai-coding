@@ -22,6 +22,7 @@ A list of of AI coding topics.
 - [ChatIDE](https://github.com/yagil/ChatIDE): Extension let you talk to ChatGPT inside VSCode.
 - [PromptMate](https://github.com/MateusZitelli/PromptMate): VSCode extension embed ChatGPT.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot): CPU based copilot clone
+- [CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara): Open Source LLaMA Model that Follow Instruction-Tuning for Code Generation.
 
 ## Datasets
 
@@ -38,6 +39,7 @@ A list of of AI coding topics.
 - [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX)
 - [SantaCoder 1.1B](https://huggingface.co/bigcode/santacoder)
 - [InCoder 1B/6B](https://github.com/dpfried/incoder)
+- [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b)
 
 ## Embedding Models
 - [CodeBERTa](https://huggingface.co/huggingface/CodeBERTa-small-v1)
@@ -78,6 +80,7 @@ A list of of AI coding topics.
 - [MutableAI](https://mutable.ai/)
 - [Refact](https://refact.ai/)
 - [Machinet](https://machinet.net/) 
+- [BlackBox](https://www.useblackbox.io/)
 
 ## Star History
 
