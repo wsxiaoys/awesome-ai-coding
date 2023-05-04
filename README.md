@@ -77,6 +77,7 @@ A list of of AI coding topics.
 - [Safurai](https://www.safurai.com/)
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
+- [BlackBox](https://www.useblackbox.io/)
 
 ## Star History
 
