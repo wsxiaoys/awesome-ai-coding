@@ -78,7 +78,6 @@ A list of of AI coding topics.
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
 - [MutableAI](https://mutable.ai/)
-- [Refact](https://refact.ai/)
 - [Machinet](https://machinet.net/) 
 - [BlackBox](https://www.useblackbox.io/)
 
