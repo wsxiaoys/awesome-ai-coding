@@ -40,6 +40,7 @@ A list of of AI coding topics.
 - [SantaCoder 1.1B](https://huggingface.co/bigcode/santacoder)
 - [InCoder 1B/6B](https://github.com/dpfried/incoder)
 - [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b)
+- [StarCoder 15B](https://huggingface.co/bigcode/starcoder)
 
 ## Embedding Models
 - [CodeBERTa](https://huggingface.co/huggingface/CodeBERTa-small-v1)
