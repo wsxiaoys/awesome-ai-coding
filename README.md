@@ -81,6 +81,7 @@ A list of of AI coding topics.
 - [MutableAI](https://mutable.ai/)
 - [Machinet](https://machinet.net/) 
 - [BlackBox](https://www.useblackbox.io/)
+- [MetaBob](https://www.metabob.com)
 
 ## Star History
 
