@@ -30,6 +30,7 @@ A list of of AI coding topics.
 - [The Stack](https://huggingface.co/datasets/bigcode/the-stack)
 - [CodeContests](https://github.com/deepmind/code_contests)
 - [CodeSearchNet](https://github.com/github/CodeSearchNet)
+- [The Vault](https://github.com/FSoft-AI4Code/TheVault)
 
 ## LLM Models
 
