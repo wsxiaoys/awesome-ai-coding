@@ -23,6 +23,7 @@ A list of of AI coding topics.
 - [PromptMate](https://github.com/MateusZitelli/PromptMate): VSCode extension embed ChatGPT.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot): CPU based copilot clone
 - [CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara): Open Source LLaMA Model that Follow Instruction-Tuning for Code Generation.
+- [CodeTF](https://github.com/salesforce/CodeTF): A One-stop Transformer Library for State-of-the-art Code LLM
 
 ## Datasets
 
