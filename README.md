@@ -64,7 +64,13 @@ A list of of AI coding topics.
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712): Chapter 3 on coding scenario. Chat UX.
 - [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255): Train decoder-only model with suffix context using a special <FIM> token.
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761): LLM as API glue layer.
-
+- [CodeCompose: A Large-Scale Industrial Deployment of
+AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
+  * deployed as single line code completion to reduce latency to 300ms - 500ms.
+  * 1.3B parameter size.
+  * fine-tuning improves accuracy / bleu by 50% - 100%.
+ 
+ 
 ## Products & Startups
 
 - [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
