@@ -93,6 +93,9 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [Machinet](https://machinet.net/) 
 - [BlackBox](https://www.useblackbox.io/)
 - [MetaBob](https://www.metabob.com)
+- [aider](https://aider.chat)
+- [sweep](http://sweep.dev)
+- [continuedev](http://continue.dev)
 
 ## Star History
 
