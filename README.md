@@ -25,6 +25,10 @@ A list of of AI coding topics.
 - [CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara): Open Source LLaMA Model that Follow Instruction-Tuning for Code Generation.
 - [CodeTF](https://github.com/salesforce/CodeTF): A One-stop Transformer Library for State-of-the-art Code LLM
 - [Rift](https://github.com/morph-labs/rift): A opensource LSP leveraging edge language model.
+- [Octopack](https://github.com/bigcode-project/octopack)
+  + [OctoPack: Instruction Tuning Code Large Language Models
+](https://arxiv.org/abs/2308.07124)
+  + Instruct fine-tuning Code LLMs on large scale github commit dataset.
 
 ## Datasets
 
