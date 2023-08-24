@@ -50,6 +50,7 @@ A list of of AI coding topics.
 - [StarCoder 15B](https://huggingface.co/bigcode/starcoder)
 - [CodeGen2](https://github.com/salesforce/CodeGen2)
 - [CodeT5 / CodeT5+](https://github.com/salesforce/CodeT5)
+- [CodeLlama](https://github.com/facebookresearch/codellama)
 
 ## Embedding Models
 - [CodeBERTa](https://huggingface.co/huggingface/CodeBERTa-small-v1)
