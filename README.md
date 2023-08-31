@@ -100,6 +100,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [aider](https://aider.chat)
 - [sweep](http://sweep.dev)
 - [continuedev](http://continue.dev)
+- [ZZZ Code AI](https://zzzcode.ai/)
 
 ## Star History
 
