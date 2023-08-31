@@ -17,7 +17,6 @@ A list of of AI coding topics.
 - [Autodoc](https://github.com/context-labs/autodoc): Generate codebase documentation use LLM (OpenAI / Alpaca)
 - [CodeAlpaca](https://github.com/sahil280114/codealpaca): LLaMA trained on code instruction following.
 - [🐾 Tabby](https://github.com/TabbyML/tabby): An opensource / on-prem alternative to GitHub Copilot. 
-- [e2b](https://github.com/e2b-dev/e2b): Opensource IDE powered by AI agents.
 - [promptr](https://github.com/ferrislucas/promptr): CLI tool to operating on your codebase using GPT.
 - [ChatIDE](https://github.com/yagil/ChatIDE): Extension let you talk to ChatGPT inside VSCode.
 - [PromptMate](https://github.com/MateusZitelli/PromptMate): VSCode extension embed ChatGPT.
