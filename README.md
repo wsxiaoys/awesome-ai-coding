@@ -102,6 +102,9 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [continuedev](http://continue.dev)
 - [ZZZ Code AI](https://zzzcode.ai/)
 
+## Peer Awesome Lists
+- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wsxiaoys/awesome-ai-coding&type=Date)](https://star-history.com/#wsxiaoys/awesome-ai-coding&Date)
