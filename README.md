@@ -4,7 +4,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding)
 
-A list of of AI coding topics.
+A list of AI coding topics.
 
 [Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) to add or edit this list. 
 
