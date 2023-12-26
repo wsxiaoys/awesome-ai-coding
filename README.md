@@ -101,6 +101,8 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [sweep](http://sweep.dev)
 - [continuedev](http://continue.dev)
 - [ZZZ Code AI](https://zzzcode.ai/)
+- [Augment Code](https://www.augmentcode.com/)
+- [CodeGen](https://www.codegen.com/)
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
