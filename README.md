@@ -107,6 +107,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
+- [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet)
 
 ## Star History
 
