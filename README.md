@@ -29,6 +29,7 @@ A list of AI coding topics.
 ](https://arxiv.org/abs/2308.07124)
   + Instruct fine-tuning Code LLMs on large scale github commit dataset.
 - [Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.
+- [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
 
 ## Datasets
 
