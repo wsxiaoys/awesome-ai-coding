@@ -30,6 +30,7 @@ A list of AI coding topics.
   + Instruct fine-tuning Code LLMs on large scale github commit dataset.
 - [Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.
 - [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
+- [Codemodder](https://codemodder.io) | Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
 
 ## Datasets
 
