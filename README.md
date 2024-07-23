@@ -30,6 +30,7 @@ A list of AI coding topics.
   + Instruct fine-tuning Code LLMs on large scale github commit dataset.
 - [Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.
 - [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
+- [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter): Accelerate developer productivity and code security with our open-source AI.
 
 ## Datasets
 
@@ -106,6 +107,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [Augment Code](https://www.augmentcode.com/)
 - [CodeGen](https://www.codegen.com/)
 - [Pixee](https://pixee.ai)
+- [MutahunterAI](https://mutahunter.ai)
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
