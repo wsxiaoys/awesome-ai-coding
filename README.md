@@ -31,6 +31,7 @@ A list of AI coding topics.
 - [Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.
 - [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter): Accelerate developer productivity and code security with our open-source AI.
+- [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
 
 ## Datasets
 
