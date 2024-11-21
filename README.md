@@ -27,7 +27,7 @@ A list of AI coding topics.
 - [Octopack](https://github.com/bigcode-project/octopack)
   + [OctoPack: Instruction Tuning Code Large Language Models
 ](https://arxiv.org/abs/2308.07124)
-  + Instruct fine-tuning Code LLMs on large scale github commit dataset.
+  + Instruct fine-tuning Code LLMs on large-scale GitHub commit dataset.
 - [Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.
 - [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter): Accelerate developer productivity and code security with our open-source AI.
@@ -64,15 +64,15 @@ A list of AI coding topics.
 - [Competition-level code generation with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 - [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)
   * Combined LLM completion and CodeSearch
-  * CodeGen-350M + BoW based snippet search beat Codex
+  * CodeGen-350M + BoW-based snippet search beat Codex
 - [Repository-Level Prompt Generation for Large Language Models of Code](https://arxiv.org/abs/2206.12839)
-  * Generate proposals candidates based with prios, e.g imports, files from same dirs.
+  * Generate proposals candidates based on prios, e.g imports, files from same dirs.
   * Use a proposal candidate classifier to select based proposals for LLM.
 - [ML-Enhanced Code Completion Improves Developer Productivity](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
-  * 500M Encoder-Decoder based model, fine tuned on Google's monorepo.
+  * 500M Encoder-Decoder-based model, fine-tuned on Google's mono repo.
   * 34% acceptance rate for multi-line code completion suggestions.
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712): Chapter 3 on coding scenario. Chat UX.
-- [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255): Train decoder-only model with suffix context using a special <FIM> token.
+- [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255): Train the decoder-only model with suffix context using a special <FIM> token.
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761): LLM as API glue layer.
 - [CodeCompose: A Large-Scale Industrial Deployment of
 AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
