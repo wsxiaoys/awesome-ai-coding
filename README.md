@@ -28,7 +28,8 @@ A list of AI coding topics.
   + [OctoPack: Instruction Tuning Code Large Language Models
 ](https://arxiv.org/abs/2308.07124)
   + Instruct fine-tuning Code LLMs on large scale github commit dataset.
-- [Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.
+- <s>[Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.</s>
+  + Pivot to AI powered legacy code migration: https://bloop.ai/
 - [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter): Accelerate developer productivity and code security with our open-source AI.
 - [code-collator](https://github.com/tawandakembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
