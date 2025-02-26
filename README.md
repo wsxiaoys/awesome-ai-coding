@@ -1,12 +1,12 @@
 
 # Awesome-AI-Coding
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding)
 
 A list of AI coding topics.
 
-[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) to add or edit this list. 
+[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) to add or edit this list.
 
 ## Projects
 
@@ -16,7 +16,7 @@ A list of AI coding topics.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 - [Autodoc](https://github.com/context-labs/autodoc): Generate codebase documentation use LLM (OpenAI / Alpaca)
 - [CodeAlpaca](https://github.com/sahil280114/codealpaca): LLaMA trained on code instruction following.
-- [🐾 Tabby](https://github.com/TabbyML/tabby): An opensource / on-prem alternative to GitHub Copilot. 
+- [🐾 Tabby](https://github.com/TabbyML/tabby): An opensource / on-prem alternative to GitHub Copilot.
 - [promptr](https://github.com/ferrislucas/promptr): CLI tool to operating on your codebase using GPT.
 - [ChatIDE](https://github.com/yagil/ChatIDE): Extension let you talk to ChatGPT inside VSCode.
 - [PromptMate](https://github.com/MateusZitelli/PromptMate): VSCode extension embed ChatGPT.
@@ -80,8 +80,8 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
   * deployed as single line code completion to reduce latency to 300ms - 500ms.
   * 1.3B parameter size.
   * fine-tuning improves accuracy / bleu by 50% - 100%.
- 
- 
+
+
 ## Products & Startups
 
 - [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
@@ -100,7 +100,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
 - [MutableAI](https://mutable.ai/)
-- [Machinet](https://machinet.net/) 
+- [Machinet](https://machinet.net/)
 - [BlackBox](https://www.useblackbox.io/)
 - [MetaBob](https://www.metabob.com)
 - [aider](https://aider.chat)
@@ -111,6 +111,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [CodeGen](https://www.codegen.com/)
 - [Pixee](https://pixee.ai)
 - [MutahunterAI](https://mutahunter.ai)
+- [Trae](https://www.trae.ai/home)
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
