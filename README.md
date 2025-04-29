@@ -112,6 +112,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [Pixee](https://pixee.ai)
 - [MutahunterAI](https://mutahunter.ai)
 - [Trae](https://www.trae.ai/home)
+- [Kilo Code](https://kilocode.ai/)
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
