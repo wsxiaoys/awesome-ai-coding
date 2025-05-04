@@ -13,7 +13,7 @@ A list of AI coding topics.
 - [BigCode](https://github.com/bigcode-project): open scientific collaboration run by Hugging Face.
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
-- [Vibe Compiler (vibec)](https://github.com/grishingrishin/vibe-compiler): A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter.
+- [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler): A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 - [Autodoc](https://github.com/context-labs/autodoc): Generate codebase documentation use LLM (OpenAI / Alpaca)
 - [CodeAlpaca](https://github.com/sahil280114/codealpaca): LLaMA trained on code instruction following.
