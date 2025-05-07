@@ -10,6 +10,7 @@ A list of AI coding topics.
 
 ## Projects
 
+- [Clean Coder](https://github.com/Grigorij-Dudnik/Clean-Coder-AI): (Almost) autonomous AI coder with project management in Todoist.
 - [BigCode](https://github.com/bigcode-project): open scientific collaboration run by Hugging Face.
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
