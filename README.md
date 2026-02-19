@@ -116,6 +116,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [Pixee](https://pixee.ai)
 - [MutahunterAI](https://mutahunter.ai)
 - [Trae](https://www.trae.ai/home)
+- [Taskade Genesis](https://taskade.com/genesis): AI-powered platform for building custom AI agents, workflows, and apps using natural language.
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
