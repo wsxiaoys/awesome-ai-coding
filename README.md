@@ -38,6 +38,7 @@ A list of AI coding topics.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [Octo Terminal](https://github.com/johunsang/octo-terminal-releases): The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri v2 + React + Rust.
 
 ## Datasets
 
