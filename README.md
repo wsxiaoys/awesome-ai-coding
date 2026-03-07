@@ -16,6 +16,7 @@ A list of AI coding topics.
 - [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler): A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter.
 - [org-ai](https://github.com/rksm/org-ai): Emacs org-mode with OpenAI APIs.
 - [Autodoc](https://github.com/context-labs/autodoc): Generate codebase documentation use LLM (OpenAI / Alpaca)
+- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md): Debugging framework for RAG and LLM pipeline failures.
 - [CodeAlpaca](https://github.com/sahil280114/codealpaca): LLaMA trained on code instruction following.
 - [🐾 Tabby](https://github.com/TabbyML/tabby): An opensource / on-prem alternative to GitHub Copilot.
 - [promptr](https://github.com/ferrislucas/promptr): CLI tool to operating on your codebase using GPT.
