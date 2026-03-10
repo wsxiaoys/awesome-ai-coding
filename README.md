@@ -39,6 +39,7 @@ A list of AI coding topics.
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
+- [Wolfpack](https://github.com/almogdepaz/wolfpack): Mobile & desktop command center for AI coding agents. Control Claude, Codex, and Gemini tmux sessions across machines from your phone, secured by Tailscale. Self-hosted, no open ports required.
 ## Datasets
 
 - [The Pile](https://huggingface.co/datasets/the_pile)
