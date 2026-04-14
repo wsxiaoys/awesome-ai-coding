@@ -35,6 +35,7 @@ A list of AI coding topics.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter): Accelerate developer productivity and code security with our open-source AI.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 - [code-collator](https://github.com/tawandakembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
+- [Repowise](https://github.com/repowise-dev/repowise): Codebase intelligence for AI coding agents. Indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
