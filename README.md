@@ -39,6 +39,8 @@ A list of AI coding topics.
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain): Self-evolving AI coding intelligence with genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. [MIT]
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge): 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. [MIT]
 ## Datasets
 
 - [The Pile](https://huggingface.co/datasets/the_pile)
