@@ -38,6 +38,8 @@ A list of AI coding topics.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [MoAI-ADK](https://github.com/modu-ai/moai-adk): SPEC-first methodology + framework for AI-assisted coding with Claude Code. Enforces Plan → Run → Sync pipeline, 24 specialized agents, 52 skills, TDD/DDD auto-selection, 16-language support.
+
 
 ## Datasets
 
