@@ -39,6 +39,8 @@ A list of AI coding topics.
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
+- [KubeStellar Console](https://github.com/kubestellar/console): Multi-cluster Kubernetes dashboard with AI-powered operations. Uses CLAUDE.md and MCP protocol to let AI agents manage Kubernetes clusters.
+
 ## Datasets
 
 - [The Pile](https://huggingface.co/datasets/the_pile)
