@@ -126,3 +126,4 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wsxiaoys/awesome-ai-coding&type=Date)](https://star-history.com/#wsxiaoys/awesome-ai-coding&Date)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
