@@ -39,6 +39,8 @@ A list of AI coding topics.
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
+- [Mneme HQ](https://github.com/TheoV823/mneme): Architectural governance layer for AI-assisted development. Injects project decisions into LLM workflows and blocks architectural violations before generation.
+
 ## Datasets
 
 - [The Pile](https://huggingface.co/datasets/the_pile)
