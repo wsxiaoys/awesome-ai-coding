@@ -39,6 +39,7 @@ A list of AI coding topics.
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
+- [CoderPlan](https://coderplan.ai) — Unified LLM API gateway supporting Claude, GPT, Gemini with OpenAI-compatible endpoint. Pay-per-use pricing, optimized for Chinese developers.
 ## Datasets
 
 - [The Pile](https://huggingface.co/datasets/the_pile)
