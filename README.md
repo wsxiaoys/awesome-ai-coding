@@ -38,6 +38,7 @@ A list of AI coding topics.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [claude-code-blueprint](https://github.com/faizkhairi/claude-code-blueprint): Framework-agnostic Claude Code config blueprint — CLAUDE.md behavioral rules, hooks, agents, and skills you copy into your project.
 
 ## Datasets
 
