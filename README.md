@@ -36,6 +36,7 @@ A list of AI coding topics.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 - [code-collator](https://github.com/tawandakembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
+- [Codex First Task Prompt Generator](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/codex-first-task-prompt-generator.html): Free web tool that turns a first Codex coding task into a scoped prompt with edit boundaries and acceptance checks.
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
