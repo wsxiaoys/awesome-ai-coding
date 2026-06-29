@@ -120,6 +120,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [OpenPaw](https://github.com/daxaur/openpaw): Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
 
 ## Peer Awesome Lists
+- [AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/): Workflow-based comparisons for Cursor alternatives and AI coding tools.
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
 - [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet)
 
