@@ -46,6 +46,7 @@ A list of AI coding topics.
 - [CodeContests](https://github.com/deepmind/code_contests)
 - [CodeSearchNet](https://github.com/github/CodeSearchNet)
 - [The Vault](https://github.com/FSoft-AI4Code/TheVault)
+- [Agentic Coding Trends 2026](https://agentic-coder.de/studien/agentic-coding-trends-2026): Daily updated metadata for 40 open-source coding-agent repositories, with reproducible methodology and JSON/CSV downloads.
 
 ## LLM Models
 
