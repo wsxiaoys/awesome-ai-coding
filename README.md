@@ -38,7 +38,7 @@ A list of AI coding topics.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
-- [usage](https://github.com/aqua5230/usage): macOS menu bar tracker for Claude Code and Codex quota, tokens, and cost. Reads local statusLine hook output and session JSONL files — zero Anthropic/OpenAI API calls. HTML reports and 9 visual themes. AGPL-3.0.
+- [usage](https://github.com/aqua5230/usage): macOS menu bar and Windows tray tracker for Claude Code, Codex, and Antigravity quota, tokens, and cost. Claude Code and Codex read local statusLine hook output and session JSONL files — no LLM API calls. HTML reports and 9 visual themes. AGPL-3.0.
 
 ## Datasets
 
