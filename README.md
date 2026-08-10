@@ -88,6 +88,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 
 ## Products & Startups
 
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA and related frameworks (policies, gap analysis, control mapping). Free tools: https://www.ismscopilot.com/resources
 - [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 - [Codeium](https://www.codeium.com/)
 - [CodeComplete.AI](https://codecomplete.ai/)
