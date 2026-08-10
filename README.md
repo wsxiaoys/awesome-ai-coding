@@ -88,6 +88,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 
 ## Products & Startups
 
+- [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests for compliance-control impact and cites the control clause. Free for public repositories. By ISMS Copilot.
 - [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 - [Codeium](https://www.codeium.com/)
 - [CodeComplete.AI](https://codecomplete.ai/)
