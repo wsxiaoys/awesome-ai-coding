@@ -38,6 +38,7 @@ A list of AI coding topics.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [UIZZE](https://uizze.com/): UI reference and anti-UI-slop toolkit for coding agents, with 800,000+ real web and iOS screens, an agent skill, GitHub Action, and free MCP preview.
 
 ## Datasets
 
