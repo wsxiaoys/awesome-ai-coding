@@ -10,6 +10,7 @@ A list of AI coding topics.
 
 ## Projects
 
+- [SandBase CLI](https://github.com/sandbaseai/cli): An open-source terminal CLI and MCP bridge for accessing 2,000+ AI models through a unified interface, with support for coding workflows and agent tools.
 - [BigCode](https://github.com/bigcode-project): open scientific collaboration run by Hugging Face.
 - [Fauxpilot](https://github.com/fauxpilot/fauxpilot): Code completion server with *CodeGen*.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim): ChatGPT in neovim.
