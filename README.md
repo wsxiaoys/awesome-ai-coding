@@ -126,3 +126,5 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wsxiaoys/awesome-ai-coding&type=Date)](https://star-history.com/#wsxiaoys/awesome-ai-coding&Date)
+
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) – Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
