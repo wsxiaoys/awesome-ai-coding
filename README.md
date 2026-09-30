@@ -38,6 +38,7 @@ A list of AI coding topics.
 - [batchai](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [Berrry](https://berrry.app): AI-powered platform that transforms social media posts into functional web applications using LLM code generation.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [Backseat](https://github.com/darek225/backseat): VS Code extension and open git/JSON protocol that lets an agent (Claude Code, Grok, or any agent with shell and git) queue coding tasks from your phone to Cline on your PC, with results pushed back via a private GitHub bridge repo. No relay server, no open ports.
 
 ## Datasets
 
