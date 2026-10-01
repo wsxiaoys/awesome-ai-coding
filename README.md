@@ -31,7 +31,7 @@ A list of AI coding topics.
   + Instruct fine-tuning Code LLMs on large scale github commit dataset.
 - <s>[Bloop](https://github.com/BloopAI/bloop): bloop is a (AI-powered) fast code search engine written in Rust.</s>
   + Pivot to AI powered legacy code migration: https://bloop.ai/
-- [Twinny](https://github.com/rjmacarthy/twinny): ollama based AI code completion plugin
+- [Twinny](https://github.com/twinnydotdev/twinny): local-first AI code completion, chat and code review for VS Code, using Ollama, LM Studio, llama.cpp or any OpenAI-compatible API
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter): Accelerate developer productivity and code security with our open-source AI.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 - [code-collator](https://github.com/tawandakembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
