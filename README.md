@@ -118,6 +118,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [Trae](https://www.trae.ai/home)
 - [Taskade Genesis](https://taskade.com/genesis): AI-powered platform for building custom AI agents, workflows, and apps using natural language.
 - [OpenPaw](https://github.com/daxaur/openpaw): Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
+- [Latchkey](https://latchkey.dev): CI your coding agents can run, read and fix — self-healing GitHub Actions runners plus a CLI and MCP server.
 
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
