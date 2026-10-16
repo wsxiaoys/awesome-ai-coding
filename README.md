@@ -122,6 +122,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
 - [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet)
+- [Awesome AI Coding Tools](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools): 3-tier taxonomy of autonomous coding agents, local LLM VRAM sizing (8GB-24GB), MCP servers, and SWE-bench Verified benchmarks.
 
 ## Star History
 
