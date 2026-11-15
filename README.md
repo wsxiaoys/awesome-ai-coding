@@ -103,6 +103,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 - [Safurai](https://www.safurai.com/)
 - [phind](https://www.phind.com/)
 - [AskCodi](https://www.askcodi.com/)
+- [No Stairs Please](https://nostairsplease.com/mcp) - Live-music venue directory and DIY tour booking guide with an MCP server for coding and touring agents
 - [MutableAI](https://mutable.ai/)
 - [Machinet](https://machinet.net/)
 - [BlackBox](https://www.useblackbox.io/)
