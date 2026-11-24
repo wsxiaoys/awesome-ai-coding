@@ -122,6 +122,7 @@ AI-assisted Code Authoring](https://arxiv.org/abs/2305.12050)
 ## Peer Awesome Lists
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
 - [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet)
+- [Awesome AI Coding Tools](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) — Curated catalog of verified AI coding assistants, autonomous agents, open-weight models, and MCP servers.
 
 ## Star History
 
